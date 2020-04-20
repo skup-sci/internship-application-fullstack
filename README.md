@@ -9,6 +9,7 @@ templates used:
 https://github.com/victoriabernard92/template-registry/tree/master/templates/javascript/cookie_extract.js
 You can visit these sites here
 https://cfw-takehome.developers.workers.dev/variants/1
+
 https://cfw-takehome.developers.workers.dev/variants/2
 
 
