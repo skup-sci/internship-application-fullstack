@@ -238,3 +238,4 @@ async function aesGcmDecrypt(ciphertext, password) {
     const plaintext = new TextDecoder().decode(plainBuffer);                            // decode password from UTF-8
 
     return plaintext;                                                                   // return the plaintext
+}
